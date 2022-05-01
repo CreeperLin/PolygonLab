@@ -1,0 +1,6 @@
+{
+  "name": "polygon-lab",
+  "version": "0.0.1",
+  "description": "A Phaser 3 Game",
+  "main": "app.js"
+}
